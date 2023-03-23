@@ -1,0 +1,51 @@
+#image{
+    max-width:700px;
+    width:95%;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+#title{
+    text-align: center;
+    margin-top:0.6em;
+
+}
+body{
+    background-color: rgb(238, 238, 238);
+}
+#img-div{
+    margin:auto;
+    width:800px;
+    padding:2px;
+    justify-content: center;
+    background-color: white;
+}
+span{
+    font-style: bold;
+    font-weight: bold;
+}
+h3{
+    text-align: center;
+}
+
+#main{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    align-content: center;
+}
+div.content{
+    text-align: center;
+
+}
+
+ul{
+    display:inline-block;
+    text-align: left;
+}
+.link{
+
+    text-align: center;
+}
